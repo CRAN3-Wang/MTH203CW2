@@ -8,7 +8,7 @@ The python implement of GA.
 The python implement of ACO
 ## ABA
 The python implement of ABA, which is an improved algrithem combined with GA and ACO.
-It can use GA to automatically select the parameters in ACO with given boundary (i.e. limitation on ant_num is given to reduce the time comsumption).
+It can use GA to automatically select the parameters in ACO with given boundary (i.e. restriction on ant_num is given to reduce the time comsumption).
 ## Details
 Other details can be obtained from the report.
 ## Author
